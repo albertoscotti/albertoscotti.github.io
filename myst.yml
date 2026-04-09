@@ -31,6 +31,7 @@ project:
       children:
         - file: book/part02/first-example.md
 site:
+  url: https://albertoscotti.github.io
   options:
     logo: logo.png
     logo_dark: logo.png
