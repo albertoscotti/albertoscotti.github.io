@@ -1,6 +1,6 @@
 version: 1
 project:
-  title: Alberto Scotti - Sport Analyst
+  title: Alberto Scotti - Sport Analytics
   # authors:
   #   - name: Author Name
   copyright: '2026'
@@ -34,7 +34,7 @@ site:
   url: https://albertoscotti.github.io
   options:
     logo: AS_SA_logo.png
-    logo_dark: AS_SA_logo.png
+    logo_dark: AS_SA_logo_dark.png
     favicon: fav.ico
     folders: true
     style: custom.css
