@@ -35,7 +35,7 @@ site:
   options:
     logo: AS_SA_logo.png
     logo_dark: AS_SA_logo_dark.png
-    favicon: fav.ico
+    favicon: AS_SA_icon.ico
     folders: true
     style: custom.css
     # analytics_google: G-XXX
