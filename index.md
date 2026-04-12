@@ -1,6 +1,6 @@
 ---
 title: Alberto Scotti, Ph.D.
-subtitle: Sport Analyst
+subtitle: Sport Performance Analyst
 ---
 
 ## About Me
@@ -13,8 +13,7 @@ My interest in sports analytics developed naturally when I began applying the to
 This platform brings those two worlds together. It serves as both a portfolio of my work and a space to explore new ideas in sports analytics, with a focus on combining technical rigour with clear, practical insights.
 
 ## Key Skills
-<div style="display: flex; gap: 40px;">
-
+<div style="display: flex; gap: 30px;">
 <ul>
   <li>Sports Analytics</li>
   <li>Performance Analysis</li>
@@ -32,7 +31,6 @@ This platform brings those two worlds together. It serves as both a portfolio of
 </ul>
 
 </div>
-
 
 ## My Approach to Sport Performance Analysis
 
