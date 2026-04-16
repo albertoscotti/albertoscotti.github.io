@@ -1,7 +1,9 @@
 ---
 title: Key Skills 💡
 ---
-<br>
+
+---
+
 <div style="display: flex; gap: 30px;">
 <ul>
   <li>Sports Analytics</li>
@@ -19,8 +21,8 @@ title: Key Skills 💡
   <li>Data Storytelling</li>
 </ul>
 </div>
----
 
+---
 
 <ol>
   <li>

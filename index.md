@@ -3,6 +3,8 @@ title: Alberto Scotti, Ph.D.
 subtitle: Sport Performance Analyst
 ---
 
+---
+
 ## Who am I 👨‍💻
 I’m Alberto Scotti, a 36-year-old Italian currently based in Ireland, after living and working in several countries along the way.
 

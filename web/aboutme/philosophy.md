@@ -1,7 +1,8 @@
 ---
 title: My Approach to Sport Performance Analysis 📊
 ---
-<br>
+
+---
 
 I am a passionate _sports analyst_ with a strong focus on transforming data into meaningful insights that support performance, strategy, and decision‑making in sport.
 
