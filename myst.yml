@@ -22,7 +22,7 @@ project:
     - file: index.md
     - title: About Me
       children:
-        - file: book/preface.md
+        - file: book/aboutme.md
     - title: Getting Started
       children:
         - file: book/part01/getting-started.md
