@@ -38,9 +38,27 @@ table th:first-child {
   margin: 0 auto;
 }
 
-/* Hide top-right action buttons (Edit, GitHub, Launch, etc.) */
-.header-article .header-article-items,
-.header-article__buttons,
-.bd-header-article__buttons {
+
+/* === Hide MyST page action icons (GitHub, Edit, Launch) === */
+
+/* GitHub repository link */
+.myst-fm-github-link {
+  display: none !important;
+}
+
+/* Edit this page link */
+.myst-fm-edit-link {
+  display: none !important;
+}
+
+/* Launch in external computing interface */
+.myst-fm-launch-button {
+  display: none !important;
+}
+
+/* Optional: also hide icons in case markup changes */
+.myst-fm-github-icon,
+.myst-fm-edit-icon,
+.myst-fm-launch-icon {
   display: none !important;
 }
