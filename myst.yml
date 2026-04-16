@@ -20,7 +20,7 @@ project:
     - book/references.bib
   toc:
     - file: index.md
-    - title: Preface
+    - title: About Me
       children:
         - file: book/preface.md
     - title: Getting Started
