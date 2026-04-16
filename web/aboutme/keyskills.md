@@ -4,7 +4,7 @@ title: Key Skills 💡
 
 ---
 
-<div style="display: flex; gap: 30px;">
+<div style="display: flex;">
 <ul>
   <li>Sports Analytics</li>
   <li>Performance Analysis</li>
