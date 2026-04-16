@@ -37,3 +37,10 @@ table th:first-child {
 #featured-projects + .myst-grid .myst-card-footer strong {
   margin: 0 auto;
 }
+
+/* Hide top-right action buttons (Edit, GitHub, Launch, etc.) */
+.header-article .header-article-items,
+.header-article__buttons,
+.bd-header-article__buttons {
+  display: none !important;
+}

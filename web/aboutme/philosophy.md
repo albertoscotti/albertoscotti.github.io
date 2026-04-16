@@ -1,7 +1,8 @@
 ---
-title: My Approach to Sport Performance Analysis 🥅
+title: My Approach to Sport Performance Analysis 📊
 ---
 <br>
+
 I am a passionate _sports analyst_ with a strong focus on transforming data into meaningful insights that support performance, strategy, and decision‑making in sport.
 
 I have experience developing analytical workflows that range from exploratory analysis to predictive and explanatory models, using machine‑learning approaches to **identify patterns, forecast outcomes, and support evidence‑based conclusions**. A key aspect of my work is translating these models into **clear, interpretable insights** that can be used by practitioners, rather than treating analytics as a purely technical exercise.
