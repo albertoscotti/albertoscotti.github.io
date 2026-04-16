@@ -1,6 +1,6 @@
 version: 1
 project:
-  title: Alberto Scotti - Sport Analytics
+  title: Alberto Scotti - Sport Performance Analyst
   # authors:
   #   - name: Author Name
   copyright: '2026'
@@ -17,12 +17,14 @@ project:
       url: https://mybinder.org
       ref: main
   bibliography:
-    - book/references.bib
+    - web/references.bib
   toc:
     - file: index.md
     - title: About Me
       children:
-        - file: book/aboutme.md
+        - file: web/aboutme/philosophy.md
+        - file: web/aboutme/keyskills.md
+        - file: web/aboutme/sportexperience.md
     - title: Getting Started
       children:
         - file: book/part01/getting-started.md
