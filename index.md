@@ -11,4 +11,5 @@ I’m Alberto Scotti, a 36-year-old Italian currently based in Ireland, after li
 My interest in sports analytics developed naturally when I began applying the tools I use in my professional work (primarily _machine learning_ with **R** and **Python**, along with _data analysis_ and _data visualisation_) to the domain I am most passionate about: sport.
 
 This platform brings those two worlds together. It serves as both a portfolio of my work and a space to explore new ideas in sports analytics, with a focus on combining technical rigour with clear, practical insights.
+
 ---

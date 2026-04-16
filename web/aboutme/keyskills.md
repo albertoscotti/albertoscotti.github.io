@@ -64,4 +64,5 @@ title: Key Skills 💡
     Capacity to integrate statistics, data science, and sports science to solve real-world analytical problems.
   </li>
 </ol>
+
 ---
