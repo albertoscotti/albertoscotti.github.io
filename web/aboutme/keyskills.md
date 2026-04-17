@@ -3,9 +3,9 @@ title: Key Tools and Skills 💡
 ---
 <br>
 
-<h2 style="margin-bottom: 0.3rem;">Tools ⚙️</h2>
+<h2 style="margin-bottom: 0.2rem;">Tools ⚙️</h2>
 
-<div style="display: flex;">
+<div style="display: flex; margin-top: 0;">
 <ul>
   <li>Python</li>
   <li>R</li>
