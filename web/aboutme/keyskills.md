@@ -3,33 +3,9 @@ title: Key Tools and Skills 💡
 ---
 <br>
 
+## Tools ⚙️
 
-<div>
-  <h2 style="margin-bottom: 0.2rem;">Tools ⚙️</h2>
-
-  <div style="display: flex; margin-top: 0;">
-    <ul style="margin-top: 0;">
-      <li>Python</li>
-      <li>R</li>
-      <li>SQL</li>
-      <li>pandas / dplyr</li>
-      <li>statsmodels / lme4</li>
-    </ul>
-
-    <ul style="margin-top: 0;">
-      <li>scikit‑learn</li>
-      <li>Matplotlib / Seaborn / ggplot2</li>
-      <li>Streamlit</li>
-      <li>Plotly</li>
-      <li>Jupyter Notebooks</li>
-    </ul>
-  </div>
-</div>
-
-
-
-
-<h2 style="margin-bottom: 0.2rem;">Tools ⚙️</h2>
+---
 
 <div style="display: flex; margin-top: 0;">
 <ul>
@@ -52,6 +28,9 @@ title: Key Tools and Skills 💡
 ---
 
 ## Skills 🧳
+
+---
+
 <details open>
   <summary><strong>Multivariate Performance Modelling Across Sports</strong></summary>
 Ability to design, estimate, and interpret multivariate regression models to identify key drivers of team and player performance across different sports contexts (e.g. baseball, ice hockey, basketball, football, cricket). This includes model specification choices, comparison of competing models, and translating statistical output into sport‑relevant insights.
