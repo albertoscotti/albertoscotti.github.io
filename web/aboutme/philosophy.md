@@ -1,5 +1,5 @@
 ---
-title: My Approach to Sport Performance Analysis 📊
+title: My Approach to Sport Performance Analysis 📈
 ---
 
 ---
