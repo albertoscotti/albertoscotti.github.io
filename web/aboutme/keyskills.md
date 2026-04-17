@@ -4,9 +4,6 @@ title: Key Tools and Skills 💡
 <br>
 
 ## Tools ⚙️
-
----
-
 <div style="display: flex; margin-top: 0;">
 <ul>
   <li>Python</li>
@@ -28,9 +25,6 @@ title: Key Tools and Skills 💡
 ---
 
 ## Skills 🧳
-
----
-
 <details open>
   <summary><strong>Multivariate Performance Modelling Across Sports</strong></summary>
 Ability to design, estimate, and interpret multivariate regression models to identify key drivers of team and player performance across different sports contexts (e.g. baseball, ice hockey, basketball, football, cricket). This includes model specification choices, comparison of competing models, and translating statistical output into sport‑relevant insights.
