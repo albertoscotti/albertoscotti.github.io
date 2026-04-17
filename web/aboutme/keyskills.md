@@ -3,7 +3,7 @@ title: Key Tools and Skills 💡
 ---
 <br>
 
-## Tools ⚙️
+<h2 style="margin-bottom: 0.3rem;">Tools ⚙️</h2>
 
 <div style="display: flex;">
 <ul>
